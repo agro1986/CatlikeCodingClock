@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{02245512-2C5E-1E1B-FA37-F8F4E8BFC93B}") = "CatlikeCodingClock", "Assembly-CSharp.csproj", "{F26EBE8B-ACFE-5326-2686-565B5FDC3891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F26EBE8B-ACFE-5326-2686-565B5FDC3891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F26EBE8B-ACFE-5326-2686-565B5FDC3891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F26EBE8B-ACFE-5326-2686-565B5FDC3891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F26EBE8B-ACFE-5326-2686-565B5FDC3891}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
